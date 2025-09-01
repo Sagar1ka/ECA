@@ -1,0 +1,501 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 26-05-2025
+THESE DATA CAN BE USED FREELY PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED:
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+
+----------------------------------------------------------------
+239,BASEL BINNINGEN,SWITZERLAND,+47:32:00,+007:35:00,316 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Sunshine is measured automatically from 1-1-1981 onwards
+
+----------------------------------------------------------------
+240,GENEVE COINTRIN,SWITZERLAND,+46:15:00,+006:08:00,420 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Sunshine is measured automatically from 1-1-1981 onwards
+
+----------------------------------------------------------------
+241,GENEVE OBSERVATOIRE,SWITZERLAND,+46:12:00,+006:09:00,405 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+242,LUGANO,SWITZERLAND,+46:00:00,+008:58:00,273 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Sunshine is measured automatically from 1-1-1981 onwards
+
+----------------------------------------------------------------
+243,SAENTIS,SWITZERLAND,+47:15:00,+009:21:00,2502 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Sunshine is measured automatically from 1-1-1981 onwards
+
+----------------------------------------------------------------
+244,ZUERICH/FLUNTERN,SWITZERLAND,+47:23:00,+008:34:00,555 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Sunshine is measured automatically from 1-1-1981 onwards
+
+----------------------------------------------------------------
+1431,AROSA,SWITZERLAND,+46:46:48,+009:40:48,1840 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+1432,CHUR,SWITZERLAND,+46:51:36,+009:31:48,556 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+1433,SCHAFFHAUSEN,SWITZERLAND,+47:40:48,+008:36:36,438 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+1434,GLARUS,SWITZERLAND,+47:01:48,+009:03:36,517 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+1435,MEIRINGEN,SWITZERLAND,+46:44:00,+008:10:00,588 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+1436,MONTANA,SWITZERLAND,+46:18:36,+007:28:48,1427 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+1437,MONTREUX-CLARENS,SWITZERLAND,+46:27:00,+006:54:00,405 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+1438,LOCARNO-MONTI,SWITZERLAND,+46:10:00,+008:47:00,366 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Sunshine is measured automatically from 1-1-1981 onwards
+
+----------------------------------------------------------------
+1641,ALTDORF,SWITZERLAND,+46:53:00,+008:37:00,438 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Sunshine is measured automatically from 1-1-1981 onwards
+
+----------------------------------------------------------------
+1642,ANDERMATT,SWITZERLAND,+46:38:00,+008:35:00,1438 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+1643,BAD RAGAZ,SWITZERLAND,+47:01:00,+009:30:00,496 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+1644,BERN/ZOLLIKOFEN,SWITZERLAND,+46:59:00,+007:28:00,552 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Sunshine is measured automatically from 1-1-1981 onwards
+
+----------------------------------------------------------------
+1645,CHATEAU-D'OEX,SWITZERLAND,+46:29:00,+007:08:00,1029 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+1647,DAVOS,SWITZERLAND,+46:49:00,+009:51:00,1594 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Sunshine is measured automatically from 1-1-1981 onwards
+
+----------------------------------------------------------------
+1648,ENGELBERG,SWITZERLAND,+46:49:00,+008:25:00,1035 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Sunshine is measured automatically from 14-10-1982 onwards
+
+----------------------------------------------------------------
+1649,COL DU GRAND ST-BERNARD,SWITZERLAND,+45:52:00,+007:10:00,2472 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Sunshine is measured automatically from 19-10-1981 onwards
+
+----------------------------------------------------------------
+1650,GRACHEN,SWITZERLAND,+46:12:00,+007:50:00,1605 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+1651,GRIMSEL HOSPIZ,SWITZERLAND,+46:34:00,+008:20:00,1980 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Sunshine is measured automatically from 26-4-1989 onwards
+
+----------------------------------------------------------------
+1652,LA CHAUX-DE-FONDS 1,SWITZERLAND,+47:05:00,+006:48:00,1060 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Sunshine is measured automatically from 1-1-1981 onwards
+
+----------------------------------------------------------------
+1653,LA CHAUX-DE-FONDS,SWITZERLAND,+47:05:00,+006:48:00,1018 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Sunshine is measured automatically from 1-1-1981 onwards
+
+----------------------------------------------------------------
+1655,LUZERN,SWITZERLAND,+47:02:00,+008:18:00,454 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Sunshine is measured automatically from 1-1-1981 onwards
+
+----------------------------------------------------------------
+1656,NEUCHATEL,SWITZERLAND,+47:00:00,+006:57:00,485 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Sunshine is measured automatically from 1-1-1981 onwards
+
+----------------------------------------------------------------
+1657,SAMEDAN 1,SWITZERLAND,+46:32:00,+009:53:00,1712 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Sunshine is measured automatically from 1-1-1981 onwards
+
+----------------------------------------------------------------
+1658,SAMEDAN,SWITZERLAND,+46:32:00,+009:53:00,1708 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Sunshine is measured automatically from 1-1-1981 onwards
+
+----------------------------------------------------------------
+1659,S. BERNARDINO,SWITZERLAND,+46:28:00,+009:11:00,1638 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Sunshine is measured automatically from 1-1-1981 onwards. Sunshine duration is calculated from global radiation measurements instead of direct measurements.
+
+----------------------------------------------------------------
+1660,SEGL-MARIA,SWITZERLAND,+46:26:00,+009:46:00,1804 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+1661,SION 1,SWITZERLAND,+46:13:00,+007:20:00,542 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Sunshine is measured automatically from 1-1-1981 onwards
+
+----------------------------------------------------------------
+1662,SION 2,SWITZERLAND,+46:13:00,+007:20:00,482 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Sunshine is measured automatically from 1-1-1981 onwards
+
+----------------------------------------------------------------
+1663,ST. GALLEN (ANETZ-STATIONS),SWITZERLAND,+47:26:00,+009:24:00,775 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Sunshine is measured automatically from 15-7-1981 onwards
+
+----------------------------------------------------------------
+2180,PAYERNE,SWITZERLAND,+46:49:00,+006:57:00,490 m 
+----------------------------------------------------------------
+* Land use:
+hilly, rural
+* Soil type:
+
+* Surface coverage:
+cultivated
+* History:
+Sunshine is measured automatically from 1-1-1981 onwards<br>BSRN station 21<br>cite: Vuilleumier, Laurent; Heimo, Alain (2022): Basic and other measurements of radiation at station Payerne (1992-10 et seq). Federal Office of Meteorology and Climatology MeteoSwiss, Payerne, PANGAEA, https://doi.org/10.1594/PANGAEA.946384
+
+----------------------------------------------------------------
+2181,GUTSCH OB ANDERMATT,SWITZERLAND,+46:39:00,+008:37:12,2287 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+10983,CHAUMONT,SWITZERLAND,+47:03:00,+006:59:00,1136 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+10984,ELM,SWITZERLAND,+46:55:00,+009:11:00,958 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+10985,JUNGFRAUJOCH,SWITZERLAND,+46:33:00,+007:59:00,3580 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+10986,MEIRINGEN,SWITZERLAND,+46:44:00,+008:10:00,588 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
